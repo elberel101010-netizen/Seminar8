@@ -4,3 +4,4 @@ My name is Elberel.
 
 I am learning Git and GitHub.
 This is my first repository.
+I am practicing branching and merging in GitHub.
