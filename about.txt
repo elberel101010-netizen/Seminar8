@@ -1,0 +1,6 @@
+Seminar 8 - Version Control System
+
+My name is Elberel.
+
+I am learning Git and GitHub.
+This is my first repository.
